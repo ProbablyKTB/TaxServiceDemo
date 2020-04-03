@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fl7b0Dz2NmV9XK116bA3GUvNa4fDRWED3nwn5NHn6FPRXgYS2pIUBkzxVBEZla95ZLZIyQXOveCOtTcfXxM2GA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kendr\\source\\repos\\TaxServiceDemo\\TaxService.Models\\TaxService.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kendr\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

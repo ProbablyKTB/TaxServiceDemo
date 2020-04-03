@@ -1,0 +1,9 @@
+C:\Users\kendr\source\repos\TaxService.Models\bin\Debug\netcoreapp3.1\TaxService.ApiModels.deps.json
+C:\Users\kendr\source\repos\TaxService.Models\bin\Debug\netcoreapp3.1\TaxService.ApiModels.dll
+C:\Users\kendr\source\repos\TaxService.Models\bin\Debug\netcoreapp3.1\TaxService.ApiModels.pdb
+C:\Users\kendr\source\repos\TaxService.Models\obj\Debug\netcoreapp3.1\TaxService.ApiModels.csprojAssemblyReference.cache
+C:\Users\kendr\source\repos\TaxService.Models\obj\Debug\netcoreapp3.1\TaxService.ApiModels.csproj.CoreCompileInputs.cache
+C:\Users\kendr\source\repos\TaxService.Models\obj\Debug\netcoreapp3.1\TaxService.ApiModels.AssemblyInfoInputs.cache
+C:\Users\kendr\source\repos\TaxService.Models\obj\Debug\netcoreapp3.1\TaxService.ApiModels.AssemblyInfo.cs
+C:\Users\kendr\source\repos\TaxService.Models\obj\Debug\netcoreapp3.1\TaxService.ApiModels.dll
+C:\Users\kendr\source\repos\TaxService.Models\obj\Debug\netcoreapp3.1\TaxService.ApiModels.pdb
