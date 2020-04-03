@@ -12,4 +12,5 @@ Note that though there is a lot of defensive coding, there is a severe lack of c
 
 As always, if you have any questions or comments, feel free to contact me.
 
-- Ken
+Thanks,
+Ken
